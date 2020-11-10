@@ -1,0 +1,35 @@
+{
+  "name": "react-nativee-easebuzz-pay",
+  "title": "React Native Easebuzz Pay",
+  "version": "1.0.0",
+  "description": "React Native Easebuzz Pay",
+  "main": "EasebuzzCheckout.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mollet-Yuan/react-nativee-easebuzz-pay.git",
+    "baseUrl": "https://github.com/Mollet-Yuan/react-nativee-easebuzz-pay.git"
+  },
+  "keywords": [
+    "react-native",
+    "easebuzz",
+    "payments"
+  ],
+  "author": {
+    "name": "Easebuzz Developers",
+    "email": "mollet_yuan@163.com"
+  },
+  "license": "Apache-2.0",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.5.0",
+    "react-native": ">=0.57.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.5.0",
+    "react-native": "^0.59.4"
+  }
+}
